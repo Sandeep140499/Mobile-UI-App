@@ -1,0 +1,211 @@
+.Task{
+    font-size: 4rem;
+    font-weight: bolder;
+    margin-left: 5%;
+}
+.list{
+    color: lightblue;
+    font-weight: none;
+}
+/* .red{
+    margin-left: 70%;
+    margin-top: -5%;
+} */
+.button{
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-left: 35%;
+
+}
+.button1{
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 2rem;
+    text-decoration: none;
+}
+.Addlist{
+    font-size: 2rem;
+}
+/* .button a{
+    text-decoration: none;
+} */
+
+/* .add{
+    font-size: 1.8rem;
+    color: gray;
+    margin-left: 56%;
+} */
+.Box1{
+    text-align: center;
+    position: relative;
+    border: 2px solid red;
+    height: 250px;
+    width: 16%;
+    border-radius: 15px;
+    margin-left: 5%;
+    box-shadow: 15px 15px rgb(226, 221, 221);
+    display: inline-block;
+    padding: 20px;
+
+}
+.trip0{
+    color: red;
+    font-size: 1.8rem;
+    height: 25px;
+    width: 4%;
+    text-decoration: none;
+
+    position: relative;
+}
+.trip{
+    text-align: center;
+    color: red;
+}
+.line{
+    margin-left: 20%;
+}
+.comp{
+    text-align: center;
+    text-decoration: line-through;
+    color: red;
+    font-size: 1.7rem;
+}
+.pending{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(75, 60, 60);
+}
+.Box2{
+    position:absolute;
+    margin-left: 40%;
+    border: 2px solid red;
+    height: 350px;
+    width: 250px;
+    border-radius: 15px;
+    margin-top:-19.5%;
+    box-shadow: 15px 15px rgb(226, 221, 221);
+}
+.Box3{
+    margin-left: 55%;
+    border: 2px solid red;
+    height: 350px;
+    width: 250px;
+    border-radius: 15px;
+    margin-top:-20.5%;
+    box-shadow: 15px 15px rgb(226, 221, 221);
+}
+.page3{
+    border: 2px solid red;
+    height: 60%;
+    width: 390px;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    color: red;
+    position: relative;
+
+}
+.Button3{
+    background-color: red;
+    border: none;
+    font-size: 0.9cm;
+    border-radius: 49px;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    justify-items: auto;
+    cursor: pointer;
+}
+.checkbox3{
+    border:2px solid red;
+    height: 30px;
+    width: 70%;
+}
+.page2{
+    border: 2px solid red;
+    height: 350px;
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 15px 15px rgb(226, 221, 221);
+}
+.pending2{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(75, 60, 60);
+}
+.trippage2{
+    text-align: center;
+    font-size: 1.8rem;
+    background-color: white;
+    border: none;
+    height: 15px;
+    width: 15%;
+    margin-left: 45%;
+    padding-bottom: 20px;
+    margin-top: -2%;
+}
+.hrpage2{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 28%;
+}
+.backpage2{
+    text-align: center;
+    border: none;
+    color: white;
+    margin: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    padding-bottom: 40px;
+}
+.buttonpage2{
+    background-color: red;
+    border: none;
+    padding: 10px;
+    border-radius: 49px;
+    color: white;
+    position: relative;
+    margin-top: 2%;
+}
+.back{
+    color: gray;
+    position: absolute;
+    margin: 15px;
+    font-size: 35px;
+    padding-top: 20px;
+}
+.indexpage3{
+     filter: blur(8px);
+}
+.filterpage3{
+    margin-top: -20%;
+    padding: 20px 20px;
+    
+}
+.page4{
+    border: 2px solid red;
+    height: 460px;
+    width: 650px;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    color: red;
+    position: absolute;
+}
+.plusred1{
+   margin-left: 20%;
+    margin-top: -5%;
+}
+.linkbutton3{
+    margin-top: -2%;
+    position: relative;
+}
